@@ -1,3 +1,5 @@
 Initial File1 text in the master branch
 
 Changes to file1
+
+v2.0 changes
