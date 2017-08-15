@@ -1,0 +1,3 @@
+Initial File2 text in the master branch
+
+Changes to file2
